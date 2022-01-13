@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation, world travel and cryptocurrency
 - 🌱 I’m currently learning modern CI/CD tooling
 - 💞️ I’m looking to collaborate on home automation projects
-- 📫 Reach me through email or leave an issue in my personal repo
+- 📫 Reach me through email or leave an issue in my personal repo https://github.com/madeddie/madeddie/issues/new
 
 <!---
 madeddie/madeddie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
